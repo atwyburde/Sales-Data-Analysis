@@ -1,2 +1,6 @@
 # Sales-Data-Analysis
-Data Analysis of 4 different stores for different products for previous and last 28 days.
+Xyz Retail Store Data, requires a Sales Analysis Report. 
+
+As a Data Analyst, we need to perform a Sales report based on the data provided. 
+
+Also the client wants to see the previous and last 28 days Sales.
